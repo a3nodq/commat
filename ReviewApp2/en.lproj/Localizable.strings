@@ -1,0 +1,125 @@
+
+"login" = "Login";
+"signup" = "SignuP";
+
+"phonenumber" = "PhoneNumbaer";
+"password" = "Password";
+"forgetpass" = "Forget Password";
+"Donnthaveaccount" = "Don’t have a account?";
+
+//signup
+"username" = "Username";
+"password2" = "Password Confirmation";
+"agreetothe" = "Agree to the";
+"termsandcondtions" = "Terms And Condtions";
+"dohavealreadyacc" = "Do you have already account?";
+"skipvistor" = "Skip As Vistor";
+
+//Verification
+"verification" = "Verification";
+"codesent" = "Code has been send to ";
+"code" = "code";
+
+
+
+//new pass
+"enternewpass" = "Enter New Password";
+"confirpass" = "Confirm new Password";
+"newpass" = "New Password 🔑";
+"reset" = "Reset";
+
+//
+"passreset" = "Password Reset 🔑";
+"sendLink" = "Send link to your phone to reset your password";
+"senflink" = "Send Reset Link";
+
+//
+"ethan" = "Ethan William";
+"onemonth" = "1 month ago";
+"comment" = "I went to the restaurant with my friends for a party , in the beginng the service was great but when my friends start to come it start to get crowded and couldnt handle all of us.";
+
+//Setting
+"maha" = "Maha";
+"editpro" = "Edit Profile";
+"Lang" = "Language";
+"notifications" = "Notifications";
+"history" = "History";
+"prefernce" = "PREFERNCE";
+"security" = "SECURITY";
+"passwordre" = "Password Reset";
+"help"= "HELP";
+"rank" = "Waht's Ranks?";
+"english" = "English";
+
+
+//Rank
+"comment1" = "Through active reviews users can be in different ranks! As shown in the following :  ";
+"type" = "Types of Ranks";
+"expert" = "Expert:";
+"enderexpert" = "The user who has the most experince and activity.";
+"intermediate" = "Intermediate:";
+"underinter" = "The user who has the
+some experince and activity.";
+"bignner" = "Beginner :";
+"underbiggner" = "The user who has the
+least experince and activity.";
+
+
+//direct MSG
+"saud" = "Saud";
+"logan" = "Logan";
+"maryam" = "Maryam";
+"saudmsg" = "Great , Thank you 💕";
+"loganmsg" = "What’s the cafe called?";
+"maryammsg" = "It was so good!!!";
+
+//Saud Msg page
+"firstbubble" = "Hi, I want to ask if the cafe you told me about is still open?";
+"secondbubble" = "Hello, yes its open!";
+"thirdbubble" = "Great , Thank you 💕";
+
+//Activitypage
+"new" = "New";
+"saudname" = "Saud";
+"likssaud" = " Likes your post.";
+"saudtime" = "2min";
+"thisweek" = "This Week";
+"manalname" = "Manal";
+"manalactivity" = " started following you.";
+"manaltime" = "3d";
+"followback" = "Follow Back";
+"saraname" = "Sara";
+"saraactivity" = " Likes your post. ";
+"saratime"= "3d";
+"aliname" = "Ali";
+"aliactivity" = "started following you.";
+"alitime" = "3d";
+"warnning" = "Tell us about your expereance in this Lolo resturant ";
+"earlier" = "Earlier";
+"paulname" = "Paul";
+"paulactivity" = "Likes your post. ";
+"paultime" = " 1W";
+"benname" = "Ben";
+"benactivity" = "Reply your post.";
+"bentime" = "2W";
+
+//explore page
+"hello" = "Hello, Maha";
+"city" = "Riyadh";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
